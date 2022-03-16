@@ -1,0 +1,14 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\bin\Debug\netcoreapp3.1\PackageExpressConsoleApp.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\bin\Debug\netcoreapp3.1\PackageExpressConsoleApp.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\bin\Debug\netcoreapp3.1\PackageExpressConsoleApp.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\bin\Debug\netcoreapp3.1\PackageExpressConsoleApp.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\bin\Debug\netcoreapp3.1\PackageExpressConsoleApp.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\bin\Debug\netcoreapp3.1\PackageExpressConsoleApp.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\obj\Debug\netcoreapp3.1\PackageExpressConsoleApp.csproj.AssemblyReference.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\obj\Debug\netcoreapp3.1\PackageExpressConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\obj\Debug\netcoreapp3.1\PackageExpressConsoleApp.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\obj\Debug\netcoreapp3.1\PackageExpressConsoleApp.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\obj\Debug\netcoreapp3.1\PackageExpressConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\obj\Debug\netcoreapp3.1\PackageExpressConsoleApp.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\obj\Debug\netcoreapp3.1\PackageExpressConsoleApp.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\PackageExpressConsoleApp\PackageExpressConsoleApp\obj\Debug\netcoreapp3.1\PackageExpressConsoleApp.genruntimeconfig.cache
