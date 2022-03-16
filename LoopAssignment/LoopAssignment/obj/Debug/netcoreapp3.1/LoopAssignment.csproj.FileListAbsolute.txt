@@ -1,0 +1,14 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\bin\Debug\netcoreapp3.1\LoopAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.csproj.AssemblyReference.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\LoopAssignment\LoopAssignment\obj\Debug\netcoreapp3.1\LoopAssignment.genruntimeconfig.cache
