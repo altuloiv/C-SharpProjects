@@ -1,0 +1,14 @@
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\bin\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.exe
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\bin\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.deps.json
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\bin\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.runtimeconfig.json
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\bin\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.runtimeconfig.dev.json
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\bin\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.dll
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\bin\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.pdb
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\obj\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.csproj.AssemblyReference.cache
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\obj\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\obj\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.AssemblyInfoInputs.cache
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\obj\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.AssemblyInfo.cs
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\obj\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\obj\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.dll
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\obj\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.pdb
+C:\Users\atulo\source\repos\IncomeComparisonConsoleApp\IncomeComparisonConsoleApp\obj\Debug\netcoreapp3.1\IncomeComparisonConsoleApp.genruntimeconfig.cache
