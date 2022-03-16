@@ -25,13 +25,13 @@ namespace DailyReportAssignment
 
             // Asks what page they are on
             Console.WriteLine("What page number are you on?");
-            string pageNumber = Console.ReadLine();
+            int pageNumber = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("You're working on page number " + pageNumber);
             Console.ReadLine();
 
             //asks if there is anything they need help with
-            Console.WriteLine("Do you help with anything?\nPlease answer \"true\" or \"false\".");
-            Convert.ToBoolean(Console.ReadLine());
+            Console.WriteLine("Do you need help with anything?\nPlease anser\"true\" or \"false\".");
+            bool needHelp = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("If you need help, please contact the instructors via email or telephone.");
             Console.ReadLine();
 
@@ -50,8 +50,8 @@ namespace DailyReportAssignment
 
 
             //asks how many  hours they studied for the day
-            Console.WriteLine("How many hours did you study today?");
-            Convert.ToString(Console.ReadLine());
+            Console.WriteLine("How many hours did you study for?");
+            int studyHours = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Great job with our studies!");
             Console.ReadLine();
 
