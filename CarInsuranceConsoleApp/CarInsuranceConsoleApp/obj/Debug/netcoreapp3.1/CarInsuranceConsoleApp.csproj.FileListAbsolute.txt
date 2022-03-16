@@ -1,0 +1,14 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\bin\Debug\netcoreapp3.1\CarInsuranceConsoleApp.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\bin\Debug\netcoreapp3.1\CarInsuranceConsoleApp.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\bin\Debug\netcoreapp3.1\CarInsuranceConsoleApp.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\bin\Debug\netcoreapp3.1\CarInsuranceConsoleApp.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\bin\Debug\netcoreapp3.1\CarInsuranceConsoleApp.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\bin\Debug\netcoreapp3.1\CarInsuranceConsoleApp.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\obj\Debug\netcoreapp3.1\CarInsuranceConsoleApp.csproj.AssemblyReference.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\obj\Debug\netcoreapp3.1\CarInsuranceConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\obj\Debug\netcoreapp3.1\CarInsuranceConsoleApp.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\obj\Debug\netcoreapp3.1\CarInsuranceConsoleApp.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\obj\Debug\netcoreapp3.1\CarInsuranceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\obj\Debug\netcoreapp3.1\CarInsuranceConsoleApp.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\obj\Debug\netcoreapp3.1\CarInsuranceConsoleApp.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CarInsuranceConsoleApp\CarInsuranceConsoleApp\obj\Debug\netcoreapp3.1\CarInsuranceConsoleApp.genruntimeconfig.cache
