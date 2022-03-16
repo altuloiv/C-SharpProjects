@@ -30,7 +30,7 @@ namespace DailyReportAssignment
             Console.ReadLine();
 
             //asks if there is anything they need help with
-            Console.WriteLine("Do you need help with anything?\nPlease anser\"true\" or \"false\".");
+            Console.WriteLine("Do you need help with anything?\nPlease answer\"true\" or \"false\".");
             bool needHelp = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("If you need help, please contact the instructors via email or telephone.");
             Console.ReadLine();
@@ -52,7 +52,7 @@ namespace DailyReportAssignment
             //asks how many  hours they studied for the day
             Console.WriteLine("How many hours did you study for?");
             int studyHours = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Great job with our studies!");
+            Console.WriteLine("Great job with your studies!");
             Console.ReadLine();
 
             //thank the student for the answers
