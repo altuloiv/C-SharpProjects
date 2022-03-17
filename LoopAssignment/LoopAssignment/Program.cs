@@ -41,7 +41,11 @@ namespace LoopAssignment
                 }
             }
             while (!isGuessed);
+            {
+                Console.WriteLine("Thank you for playing our game!");
+            }
             
+
             Console.Read();
         }
     }
