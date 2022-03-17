@@ -1,0 +1,14 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\bin\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\bin\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\bin\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\bin\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\bin\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\bin\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\obj\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\obj\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\obj\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\obj\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\obj\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\obj\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\obj\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ArrayConsoleAppAssignment\ArrayConsoleAppAssignment\obj\Debug\netcoreapp3.1\ArrayConsoleAppAssignment.genruntimeconfig.cache
