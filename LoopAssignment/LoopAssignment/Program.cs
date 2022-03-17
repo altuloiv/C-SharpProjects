@@ -10,6 +10,7 @@ namespace LoopAssignment
             int number = Convert.ToInt32(Console.ReadLine());
             bool isGuessed = number == 12;
 
+
             do
             {
                 switch (number)
@@ -42,11 +43,17 @@ namespace LoopAssignment
             }
             while (!isGuessed);
             {
-                Console.WriteLine("Thank you for playing our game!");
             }
             
 
             Console.Read();
+
+            int i = 0;
+            while (i < 5)
+            {
+                Console.WriteLine(i);
+                i++;
+            }
         }
     }
 }
