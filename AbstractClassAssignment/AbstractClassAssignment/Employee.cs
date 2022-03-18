@@ -14,9 +14,19 @@ namespace AbstractClassAssignment
         }
         public void Quit()
         {
-            Console.WriteLine("The employee quit his job.");
+            Console.WriteLine("The employee quit their job.");
         }
         public int Id { get; set; }
+
+        public static bool operator==(Employee employee, Employee employee1)
+        {
+            return employee.Id == employee1.Id;
+        }
+
+        public static bool operator!=(Employee employee, Employee employee1)
+        {
+            return employee.Id != employee1.Id;
+        }
         
     }
 }

@@ -16,11 +16,16 @@ namespace AbstractClassAssignment
             employee.lastName = "Student";
             employee.SayName();
 
+            Employee employee1 = new Employee();
+            employee1.firstName = "Albert";
+            employee1.lastName = "Tulo IV";
+
             quitter.Quit();
 
             employee.Id = 001;
+            employee.Id = 002;
 
-            Console.WriteLine(employee);
+            Console.WriteLine(employee==employee1);
         }
     }
 }
