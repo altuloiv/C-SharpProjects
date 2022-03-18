@@ -1,0 +1,13 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\bin\Debug\netcoreapp3.1\MainMethodAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MainMethodAssignment\MainMethodAssignment\obj\Debug\netcoreapp3.1\MainMethodAssignment.genruntimeconfig.cache
