@@ -1,0 +1,14 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\bin\Debug\netcoreapp3.1\ClassSubmissionAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ClassSubmissionAssignment\ClassSubmissionAssignment\obj\Debug\netcoreapp3.1\ClassSubmissionAssignment.genruntimeconfig.cache
