@@ -1,0 +1,13 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\netcoreapp3.1\AbstractClassAssignment.genruntimeconfig.cache
