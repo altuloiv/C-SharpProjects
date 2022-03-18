@@ -1,0 +1,14 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\bin\Debug\netcoreapp3.1\StringAndIntegerAssignment.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\bin\Debug\netcoreapp3.1\StringAndIntegerAssignment.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\bin\Debug\netcoreapp3.1\StringAndIntegerAssignment.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\bin\Debug\netcoreapp3.1\StringAndIntegerAssignment.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\bin\Debug\netcoreapp3.1\StringAndIntegerAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\bin\Debug\netcoreapp3.1\StringAndIntegerAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\netcoreapp3.1\StringAndIntegerAssignment.csproj.AssemblyReference.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\netcoreapp3.1\StringAndIntegerAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\netcoreapp3.1\StringAndIntegerAssignment.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\netcoreapp3.1\StringAndIntegerAssignment.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\netcoreapp3.1\StringAndIntegerAssignment.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\netcoreapp3.1\StringAndIntegerAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\netcoreapp3.1\StringAndIntegerAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\netcoreapp3.1\StringAndIntegerAssignment.genruntimeconfig.cache
