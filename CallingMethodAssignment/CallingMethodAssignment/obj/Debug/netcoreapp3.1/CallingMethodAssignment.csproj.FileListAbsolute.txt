@@ -1,0 +1,14 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\netcoreapp3.1\CallingMethodAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\netcoreapp3.1\CallingMethodAssignment.genruntimeconfig.cache
