@@ -67,7 +67,7 @@ namespace _6PartAssignment
             Console.WriteLine("Enter a breed of dog.");
             string doggyInput = Console.ReadLine();
             for (int index = 0; index < doggyList.Count; index++)
-                if (cityList[index] == doggyInput)
+                if (doggyList[index] == doggyInput)
                 {
                     Console.WriteLine(index);
                 }

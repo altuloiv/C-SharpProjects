@@ -1,0 +1,14 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\bin\Debug\netcoreapp3.1\6PartAssignment.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\bin\Debug\netcoreapp3.1\6PartAssignment.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\bin\Debug\netcoreapp3.1\6PartAssignment.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\bin\Debug\netcoreapp3.1\6PartAssignment.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\bin\Debug\netcoreapp3.1\6PartAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\bin\Debug\netcoreapp3.1\6PartAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\obj\Debug\netcoreapp3.1\6PartAssignment.csproj.AssemblyReference.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\obj\Debug\netcoreapp3.1\6PartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\obj\Debug\netcoreapp3.1\6PartAssignment.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\obj\Debug\netcoreapp3.1\6PartAssignment.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\obj\Debug\netcoreapp3.1\6PartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\obj\Debug\netcoreapp3.1\6PartAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\obj\Debug\netcoreapp3.1\6PartAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\6PartAssignment\6PartAssignment\obj\Debug\netcoreapp3.1\6PartAssignment.genruntimeconfig.cache
