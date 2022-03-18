@@ -1,0 +1,13 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\netcoreapp3.1\MethodSubmissionAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\netcoreapp3.1\MethodSubmissionAssignment.genruntimeconfig.cache
