@@ -10,10 +10,13 @@ namespace AbstractClassAssignment
     {
         public static void Main(string[] args)
         {
+            IQuittable quitter = new Employee();
             Employee employee = new Employee();
             employee.firstName = "Sample";
             employee.lastName = "Student";
             employee.SayName();
+
+            quitter.Quit();
 
             employee.Id = 001;
 
