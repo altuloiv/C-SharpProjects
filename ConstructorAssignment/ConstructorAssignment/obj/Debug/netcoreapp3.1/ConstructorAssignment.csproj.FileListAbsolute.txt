@@ -1,0 +1,14 @@
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.exe
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.deps.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.runtimeconfig.dev.json
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\bin\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.csproj.AssemblyReference.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfoInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.AssemblyInfo.cs
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.dll
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.pdb
+C:\Users\atulo\Documents\GitHub\C-SharpProjects\ConstructorAssignment\ConstructorAssignment\obj\Debug\netcoreapp3.1\ConstructorAssignment.genruntimeconfig.cache
