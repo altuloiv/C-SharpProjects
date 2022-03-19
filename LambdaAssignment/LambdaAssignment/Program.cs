@@ -10,6 +10,7 @@ namespace LambdaAssignment
     {
         static void Main(string[] args)
         {
+            //create each employee first and last name with id
             List<Employee> Employee = new List<Employee>();
             Employee Emp1 = new Employee();
             Emp1.FirstName = "Albert";
@@ -61,6 +62,7 @@ namespace LambdaAssignment
             Emp10.LastName = "Verstrapen";
             Emp10.Id = 10;
 
+            //create new list for all the employees
             List<Employee> EmployeeList = new List<Employee>();
             EmployeeList.Add(Emp1);
             EmployeeList.Add(Emp2);
@@ -73,6 +75,7 @@ namespace LambdaAssignment
             EmployeeList.Add(Emp9);
             EmployeeList.Add(Emp10);
 
+            //looking for all employees with the first name of joe
             List<Employee> anewList = new List<Employee>();
             foreach (Employee employee in EmployeeList)
             {
@@ -83,6 +86,7 @@ namespace LambdaAssignment
             }
             Console.WriteLine("Employee named \"Joe\" has been found.");
 
+            
             for (int i = 0; i < anewList.Count; i++)
             {
                 Console.WriteLine(anewList[i].FirstName + " " + anewList[i].LastName + "\n");
